@@ -1,0 +1,7 @@
+#Admin page
+username: dealthoitrang
+pass: dealthoitrang123
+
+#database
+username: root
+pass: no pass
